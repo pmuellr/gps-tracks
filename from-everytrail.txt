@@ -1,0 +1,127 @@
+ 416254 Crowders Mountain, Kings Pinnacle
+ 416255 Mount Mitchell, Deep Gap Trail
+ 416258 Red River Gorge, Courthouse Rock Trail
+ 416261 Stone Mountain, Stone Mountain Loop
+ 416271 Humpback Rocks
+ 416272 South Mountains
+ 416276 White Pines
+ 419671 Eagle Spur Trail
+ 423685 Bobbitt Hole Trail at Eno River State Park
+ 429688 White Oak Canyon, Shenandoah National Park
+ 442932 Cook's Wall Trail at Hanging Rock State Park
+ 446209 Raven Rock State Park, Raven Rock Loop
+ 455191 Umstead SP, Sal's Branch Trail
+ 455194 ATT
+ 455196 ATT
+ 477621 White Pines
+ 482054 2010-01-27 Beach Bike
+ 524168 2010-03-08 Stone Mountain
+ 596372 2010-04-29 Sugarloaf Mountain
+ 596380 2010-04-29 biking Uwharrie
+ 598501 Reedy Creek
+ 611045 2010-05 Lower Haw River hiking
+ 611049 2010-05 Lower Haw River biking
+ 650894 Art Museum to Ampitheatre
+ 692673 2010-07-05 Eagle Spur
+ 692679 2010-07-05 Lower Haw
+ 701292 2010-07-11 Doyles River
+ 710953 2010-07-18 Umstead via the Art Museum
+ 719916 Harris Lake Hog Run Beginner and Intermediate Trails
+ 758619 2010-08-15 Haw River
+ 758625 2010-08-15 Jordan Lake
+ 780720 2010-08-25 Lake Jordan
+ 783767 2010-08-29 Douthat State Park
+ 785347 2010-08-30 Courthouse Rock at Red River Gorge
+ 813964 2010-09-18 Poe's Ridge
+ 816234 2010-09-19 Haw River at Bynum
+ 862139 2010-10-24 New Hope Overlook
+ 871034 2010-10-31 New Hope Red Trail
+ 890735 2010-11-21 Haw Slopes
+ 897000 2010-11-28 Camels Creek Loop
+ 901055 2010-12-04 Fish Traps
+ 912818 2010-12-20 Chestnut Knob and High Shoals
+ 921823 2011-01-01 New Hope Overlook
+ 936930 2011-01-16 Holden Mill Trail
+ 977641 2011-02-23 Hanging Rock
+1066770 2011-04-29 Castle Rock Trail at New River Gorge
+1070436 2011-05-01 Tory's Falls
+1087245 2011-05-11 Middle Falls at Wallace Falls State Park
+1101627 2011-05-21 Haw River at Swepsonville
+1114937 2011-05-29 Cox Mountain trail at Eno River State Park
+1139995 2011-06-13 Cedar Point
+1143031 2011-06-15 Beaufort
+1151209 2011-06-20 Whiteside Mountain
+1151213 2011-06-20 Jones Knob
+1157138 2011-06-25 Hightop
+1168130 2011-07-02 Hickory Hill
+1181561 2011-07-10 Harris Lake Cross Point Landing
+1194302 2011-07-17 Billy Goat Trail A
+1202893 2011-07-23 Raven Rock - West Loop Bridal Trail
+1251365 2011-08-21 Robeson Creek - Haw River
+1273356 2011-09-04 Rapidan
+1307110 2011-09-28 Stone Mountain
+1377188 2011-10-01 Whiteside Mountain
+1377194 2011-10-02 Devil's Courthouse
+1377195 2011-10-08 Weymouth Woods
+1377196 2011-10-14 Morrow Mountain Fall Mountain Trail
+1377197 2011-10-27 Pilot Mountain
+1377200 2011-11-03 Raven Rock Loop
+1377201 2011-11-13 Raven Rock East Loop
+1377202 2011-11-18 Hanging Rock Trail
+1377204 2011-11-18 Lower Cascades
+1377205 2011-11-18 Moore's Wall
+1377206 2011-11-24 Dark Hollow Falls
+1377207 2011-11-25 Hawksbill Mountain
+1377829 2011-12-02 Eno River SP West Point
+1385447 2011-12-11 New Hope Overlook
+1389991 2011-12-17 Campbell's Creek
+1419648 2012-01-15 Poole Rd at Jordan Lake
+1433808 2012-01-29 Bluff Loop Trail
+1439769 2012-02-04 Haw Slopes NE
+1464291 2012-02-26 Wilderness Island
+1482085 2012-03-11 Old Hope Valley
+1620805 2012-06-10 Wilderness Island, South East
+1633120 2012-06-18 Beaufort
+1635719 2012-06-20 Hammocks Beach
+1636669 2012-06-21 Western Emerald Isle
+1641674 2012-06-24 Eagle Point
+1681981 2012-07-21 Mt Hood etc
+1681982 2012-07-21 Tamanawas Falls
+1703815 2012-08-04 Harris Lake
+1822825 2012-10-14 Harris Lake Hollemans Peninsula
+1843689 2012-10-24 Bogue Inlet
+1865191 2012-11-04 Beaver Dam
+2015972 2013-02-14 Big Creek
+2016971 2013-02-15 Crabtree Falls
+2063939 2013-03 Outer Banks
+2082757 2013-04-09 Farrington Point
+2182466 2013-06-16 Radio Island
+2182500 2013-06-18 Emerald Isle
+2185498 2013-06-20 Bear Island
+2203609 2013-07-04 Rapidan WMA South Scouting
+2317300 2013-09-15 New Hope
+2330318 2013-09-24 White Oak River
+2335731 2013-09-28 Raven Rock
+2373696 2013-10-22 Craggy Pinnacle
+2373697 2013-10-22 Green Knob Lookout Tower
+2400294 2013-11-10 Jordan Lake Dam
+2498416 2013-12-13 Alum Cave Trail
+2539717 2014-01-01 Haw River
+2676968 2014-02-23 Endor Furnace
+2683354 2014-03-01 Raven Rock
+2684723 2014-03-02 Jordan Lake
+2701876 2014-03-15 NW Haw at 64
+2727661 2014-04-02 Yosemite Mirror Lake
+2727662 2014-04-02 Yosemite Vernal Falls
+2727664 2014-04-02 Yosemite Western Loop
+2727665 2014-04-03 Yosemite Bridal Veil Falls
+2727681 2014-04-06 Northwest Haw @ 64
+2770735 2014-05-07 Loft Mountain Loop
+2829091 2014-06-19 Trent River
+2881082 2014-07-24 Oneonta Gorge
+2899778 2014-08-02 Rocky Mountain
+2899783 2014-08-03 Bearfence
+
+http://www.everytrail.com/downloadGPX.php?trip_id=2899783 > 2899783.gpx
+
+curl --cookie "PHPSESSID=j3cbudrmk6lvoolnpetaetn872" --cookie "TRAILAUTH=9d8e7ad7beb346e554af77efd342344622171f62a5ac4c0b" http://www.everytrail.com/downloadGPX.php?trip_id=2899783 > 2899783.gpx
