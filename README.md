@@ -1,1 +1,1 @@
-GPX files I liberated from EveryTrail, since it died.
+gps tracks and configuration for my-tracks
