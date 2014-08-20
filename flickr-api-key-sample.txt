@@ -1,0 +1,8 @@
+<flickr API key here>
+
+The first line of this file should contain your Flickr API key.  The rest of
+the file is ignored.
+
+The file with the key should be named `flickr-api-key.txt`, and you should
+arrange to NOT store it in source code management, because then others might
+see it.
